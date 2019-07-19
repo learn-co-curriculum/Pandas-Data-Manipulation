@@ -1,3 +1,5 @@
+Ported from the ds-lesson-starters-repo [here](https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/lesson-plans-by-mod/Module-1/manipulating_data_with_pandas).
+
 ---
 title: Pandas 2
 layout: post
